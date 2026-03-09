@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/Guitts8/Guitts8/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
 <h1 align="center">Raul Guilherme</h1>
 
 <p align="center">
