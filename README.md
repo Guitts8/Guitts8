@@ -10,10 +10,6 @@ Canoas, Rio Grande do Sul, Brazil
 
 ---
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Guitts8&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guitts8&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Guitts8/Guitts8/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
