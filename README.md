@@ -31,11 +31,8 @@ I value organization, maintainability, continuous improvement, and solving real-
 ## Language Distribution
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guitts8&theme=tokyonight" alt="Top Languages by Repository" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Guitts8&theme=tokyonight" alt="Top Languages by Commit" />
+  <img width="380" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guitts8&theme=tokyonight" alt="Top Languages by Repository" />
+  <img width="380" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Guitts8&theme=tokyonight" alt="Top Languages by Commit" />
 </p>
 
 ---
