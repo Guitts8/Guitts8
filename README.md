@@ -198,7 +198,7 @@ State-level competition experience that helped strengthen:
 
 ---
 
-## Contact
+# Contact
 
 - Email: [contato.raulguilherme@gmail.com](mailto:contato.raulguilherme@gmail.com)
 - GitHub: [github.com/Guitts8](https://github.com/Guitts8)
