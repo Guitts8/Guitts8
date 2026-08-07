@@ -4,17 +4,17 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Development+Student;Backend+%7C+SQL+%7C+APIs;Technical+Support+Analyst;loading..." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Software+Development+Student;Backend+%7C+SQL+%7C+APIs;Technical+Support+Analyst;loading..." alt="typing" />
 
-<a href="https://www.linkedin.com/in/raul-guilherme-rodrigues-da-silva-555aa02b4"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:contato.raulguilherme@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Guitts8"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/raul-guilherme-rodrigues-da-silva-555aa02b4"><img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" /></a>
+<a href="mailto:contato.raulguilherme@gmail.com"><img src="https://img.shields.io/badge/Gmail-1A1B27?style=for-the-badge&logo=gmail&logoColor=7AA2F7" /></a>
+<a href="https://github.com/Guitts8"><img src="https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=7AA2F7" /></a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Guitts8&style=for-the-badge&color=000000" />
-<img src="https://img.shields.io/github/commit-activity/y/Guitts8/Guitts8?style=for-the-badge&color=000000&labelColor=000000" />
-<img src="https://img.shields.io/github/repo-size/Guitts8/Guitts8?style=for-the-badge&color=000000&labelColor=000000" />
+<img src="https://komarev.com/ghpvc/?username=Guitts8&style=for-the-badge&color=1A1B27&labelColor=1A1B27" />
+<img src="https://img.shields.io/github/commit-activity/y/Guitts8/Guitts8?style=for-the-badge&color=7AA2F7&labelColor=1A1B27" />
+<img src="https://img.shields.io/github/repo-size/Guitts8/Guitts8?style=for-the-badge&color=7AA2F7&labelColor=1A1B27" />
 
 </div>
 
@@ -58,19 +58,19 @@ I value organization, maintainability, continuous improvement, and solving real-
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Guitts8&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
+<img src="https://streak-stats.demolab.com?user=Guitts8&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Guitts8&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api?username=Guitts8&show_icons=true&theme=tokyonight&hide_border=false" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guitts8&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guitts8&layout=compact&theme=tokyonight&hide_border=false" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Guitts8&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Guitts8&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=c0caf5&area=true&area_color=7aa2f7&hide_border=true" />
 
 
 </div>
@@ -84,39 +84,39 @@ I value organization, maintainability, continuous improvement, and solving real-
 <b>Languages</b>
 
 <p>
-<img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-1A1B27?style=for-the-badge&logo=php&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/JavaScript-1A1B27?style=for-the-badge&logo=javascript&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/TypeScript-1A1B27?style=for-the-badge&logo=typescript&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/Python-1A1B27?style=for-the-badge&logo=python&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/Java-1A1B27?style=for-the-badge&logo=openjdk&logoColor=7AA2F7" />
 </p>
 
 <b>Frontend</b>
 
 <p>
-<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/React-1A1B27?style=for-the-badge&logo=react&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/Next.js-1A1B27?style=for-the-badge&logo=nextdotjs&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/HTML5-1A1B27?style=for-the-badge&logo=html5&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/CSS3-1A1B27?style=for-the-badge&logo=css3&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/Tailwind-1A1B27?style=for-the-badge&logo=tailwindcss&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/Bootstrap-1A1B27?style=for-the-badge&logo=bootstrap&logoColor=7AA2F7" />
 </p>
 
 <b>Databases</b>
 
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-1A1B27?style=for-the-badge&logo=postgresql&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/MySQL-1A1B27?style=for-the-badge&logo=mysql&logoColor=7AA2F7" />
 </p>
 
 <b>Tools</b>
 
 <p>
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-1A1B27?style=for-the-badge&logo=git&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/Docker-1A1B27?style=for-the-badge&logo=docker&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/Linux-1A1B27?style=for-the-badge&logo=linux&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/Insomnia-1A1B27?style=for-the-badge&logo=insomnia&logoColor=7AA2F7" />
 </p>
 
 </div>
@@ -158,10 +158,10 @@ I value organization, maintainability, continuous improvement, and solving real-
 Property registration and editing, multiple image uploads, drag-and-drop image reordering, bulk image deletion, user and permission management, and full integration between frontend and backend APIs.
 
 <p>
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-black?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-1A1B27?style=for-the-badge&logo=nextdotjs&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/Tailwind-1A1B27?style=for-the-badge&logo=tailwindcss&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/REST_API-1A1B27?style=for-the-badge&logo=fastapi&logoColor=7AA2F7" />
+<img src="https://img.shields.io/badge/SQL-1A1B27?style=for-the-badge&logo=postgresql&logoColor=7AA2F7" />
 </p>
 
 ### Education
