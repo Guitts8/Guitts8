@@ -24,15 +24,37 @@
 
 ---
 
+<!-- Suba uma imagem no repositório e descomente a linha abaixo -->
+<!-- <img src="about.png" align="right" width="220"> -->
+
+```console
+$ whoami
+raul guilherme · canoas, rs · systems analysis & development @ ifrs
+
+$ stack --primary
+php · typescript · postgresql · docker · linux
+
+$ what-i-do
+sql tuning · incident triage · log analysis · rest apis
+
+$ off-screen
+muay thai · state-level competitor
+```
+
 I am a Systems Analysis and Development student with hands-on experience in technical support, data preparation, SQL, and web systems development.
 
 My work has involved user support, incident analysis, log investigation, technical documentation, and collaboration with development teams. I am especially interested in backend development, APIs, databases, enterprise systems, and technical infrastructure.
 
 I value organization, maintainability, continuous improvement, and solving real-world technical problems.
 
+<br clear="right">
+
 ### Statistics
 
 ---
+
+<!-- Suba uma imagem no repositório e descomente a linha abaixo -->
+<!-- <img src="stats.png" align="left" width="220"> -->
 
 <div align="center">
 
@@ -160,8 +182,7 @@ Object-Oriented Programming · Databases · Web Development · Software Engineer
 
 ---
 
-<div align="center">
-
-<i>"Consistency beats intensity."</i>
-
-</div>
+```
+"O ferro afia o ferro."
+   — provérbio, e também a rotina de treino
+```
