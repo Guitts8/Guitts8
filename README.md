@@ -1,16 +1,28 @@
-<h1 align="center">Raul Guilherme</h1>
+<div align="center">
 
-<p align="center">
-  Software Development Student | Backend | SQL | Technical Support
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Development+Student;Backend+%7C+SQL+%7C+APIs;Technical+Support+Analyst;loading..." alt="typing" />
 
-<p align="center">
-  Canoas, Rio Grande do Sul, Brazil
-</p>
+<h1>Raul Guilherme</h1>
+
+<p>Canoas, Rio Grande do Sul, Brazil</p>
+
+<a href="https://www.linkedin.com/in/raul-guilherme-rodrigues-da-silva-555aa02b4"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:contato.raulguilherme@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Guitts8"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Guitts8&style=for-the-badge&color=000000" />
+<img src="https://img.shields.io/github/commit-activity/y/Guitts8/Guitts8?style=for-the-badge&color=000000&labelColor=000000" />
+<img src="https://img.shields.io/github/repo-size/Guitts8/Guitts8?style=for-the-badge&color=000000&labelColor=000000" />
+
+</div>
 
 ---
 
-## About
+### About
+
+---
 
 I am a Systems Analysis and Development student with hands-on experience in technical support, data preparation, SQL, and web systems development.
 
@@ -18,104 +30,89 @@ My work has involved user support, incident analysis, log investigation, technic
 
 I value organization, maintainability, continuous improvement, and solving real-world technical problems.
 
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guitts8&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
+### Statistics
 
 ---
 
-## Language Distribution
+<div align="center">
 
-<p align="center">
-  <img width="380" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guitts8&theme=tokyonight" alt="Top Languages by Repository" />
-  <img width="380" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Guitts8&theme=tokyonight" alt="Top Languages by Commit" />
-</p>
+<img src="https://streak-stats.demolab.com?user=Guitts8&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Guitts8&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guitts8&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Guitts8&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Guitts8/Guitts8/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+</div>
+
+### Technology Stack
 
 ---
 
-## Contribution Snake
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Guitts8/Guitts8/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
----
-
-## Technology Stack
-
-### Programming Languages
+<b>Languages</b>
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" alt="Java" />
+<img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-### Frontend
+<b>Frontend</b>
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-6F42C1?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-### Backend and Systems
-
-- REST APIs
-- MVC Architecture
-- JWT Authentication
-- CodeIgniter 4
-
-### Databases
+<b>Databases</b>
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-Experience with:
-
-- Database modeling
-- Index creation
-- Query optimization
-- SQL performance analysis
-- EXPLAIN plan analysis
-
-### Tools and Environment
+<b>Tools</b>
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" />
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=white" />
 </p>
 
-Additional tools and practices:
+</div>
 
-- Excel
-- Technical documentation
-- Bug reproduction and troubleshooting
-- Version control workflows
-- Basic input validation and security practices
+**Backend and systems:** REST APIs · MVC architecture · JWT authentication · CodeIgniter 4
+
+**Database work:** modeling · index creation · query optimization · SQL performance analysis · EXPLAIN plan analysis
+
+**Practices:** technical documentation · bug reproduction and troubleshooting · version control workflows · input validation and basic security
+
+### Professional Experience
 
 ---
 
-## Professional Experience
-
-### Data Preparation Technician  
-**SuperMidia**  
-2025 – Present
-
-Responsibilities include:
+**Data Preparation Technician** — SuperMidia · 2025 – Present
 
 - Preparing, cleaning, and transforming data for reports and integrations
 - Writing and optimizing SQL queries in PostgreSQL
@@ -124,11 +121,7 @@ Responsibilities include:
 - Standardizing and documenting technical queries
 - Collaborating with product and QA teams to improve data quality and consistency
 
-### Technical Support Analyst (Level 1)  
-**SuperMidia**  
-2025 – Present
-
-Responsibilities include:
+**Technical Support Analyst (Level 1)** — SuperMidia · 2025 – Present
 
 - Supporting users and handling issue triage
 - Tracking incidents and following up on support cases
@@ -137,73 +130,41 @@ Responsibilities include:
 - Documenting internal procedures
 - Working with development teams to reproduce and validate bug fixes
 
----
-
-## Featured Project
-
-### Real Estate CRM
-
-A web application designed to manage real estate properties and agents.
-
-Main features:
-
-- Property registration and editing
-- Multiple image uploads
-- Drag-and-drop image reordering
-- Bulk image deletion
-- User and permission management
-- Integration between frontend and backend APIs
-
-Technologies used:
-
-- Next.js
-- Tailwind CSS
-- REST APIs
-- SQL databases
+### Featured Project
 
 ---
 
-## Education
+**Real Estate CRM** — a web application for managing real estate properties and agents.
 
-### Systems Analysis and Development  
-**Federal Institute of Rio Grande do Sul (IFRS)**
+Property registration and editing, multiple image uploads, drag-and-drop image reordering, bulk image deletion, user and permission management, and full integration between frontend and backend APIs.
 
-Main areas of study:
-
-- Object-Oriented Programming
-- Databases
-- Web Development
-- Software Engineering
-
----
-
-## Additional Activities
-
-### Muay Thai Competitor
-
-State-level competition experience that helped strengthen:
-
-- Discipline
-- Focus
-- Emotional control under pressure
-- Fast decision-making
-- Commitment to continuous improvement
-
----
-
-## Languages
-
-- Portuguese — Native
-- English — Advanced
-
----
-
-# Contact
-
-- Email: [contato.raulguilherme@gmail.com](mailto:contato.raulguilherme@gmail.com)
-- GitHub: [github.com/Guitts8](https://github.com/Guitts8)
-- LinkedIn: [raul-guilherme-rodrigues-da-silva-555aa02b4](https://www.linkedin.com/in/raul-guilherme-rodrigues-da-silva-555aa02b4)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Guitts8&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+<p>
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-black?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
+
+### Education
+
+---
+
+**Systems Analysis and Development** — Federal Institute of Rio Grande do Sul (IFRS)
+
+Object-Oriented Programming · Databases · Web Development · Software Engineering
+
+### Beyond Code
+
+---
+
+**Muay Thai competitor** at state level — discipline, focus, emotional control under pressure, fast decision-making, and a commitment to continuous improvement.
+
+**Languages:** Portuguese (native) · English (advanced)
+
+---
+
+<div align="center">
+
+<i>"Consistency beats intensity."</i>
+
+</div>
