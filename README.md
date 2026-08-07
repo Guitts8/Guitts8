@@ -18,28 +18,38 @@
 
 ## *"O ferro afia o ferro"*
 
-<!-- TIRA VERTICAL DE IMAGENS — monte uma única imagem com 3 ou 4 fotos empilhadas -->
-<!-- <img align="right" width="230" src="strip.png"> -->
+<!-- TIRA VERTICAL DE IMAGENS (lado direito) -->
+<!-- Monte UMA imagem só, vertical, com 3 ou 4 fotos empilhadas. Sugestão: 460x1100px -->
+<!-- <img align="right" width="240" src="strip.png"> -->
 
 ```
-💼 ADS @ IFRS • Backend dev • Suporte Técnico N1
-💻 SQL • APIs REST • Docker • Linux
-📖 Modelagem de dados • Performance de queries • Arquitetura
-🥋 Muay Thai • Games • Música
+💼 Desenvolvedor back-end e analista de suporte
+🗄️ Foco em SQL, modelagem de dados e performance de queries
+🔍 Análise de logs, triagem de incidentes e documentação técnica
+🎓 ADS no IFRS — Canoas, RS
 ```
 
-<!-- GIF 1 — suba no repositório e descomente -->
-<!-- <p align="center"><img src="gif-1.gif" width="120"></p> -->
+<!-- IMAGEM 1 — suba no repositório e descomente -->
+<!-- <p align="center"><img src="img-1.gif" width="140"></p> -->
 
 ```
-🎮 [seus jogos favoritos aqui]
-🎬 [suas séries e filmes aqui]
-🎵 [suas bandas aqui]
-🐍 PHP • TypeScript • Python • JavaScript • Java
+🏗️ Real Estate CRM — gestão de imóveis e corretores
+   Upload múltiplo de imagens, reordenação por arrastar,
+   controle de usuários e permissões
+   Next.js • Tailwind • APIs REST • PostgreSQL
 ```
 
-<!-- GIF 2 -->
-<!-- <p align="center"><img src="gif-2.gif" width="120"></p> -->
+<!-- IMAGEM 2 -->
+<!-- <p align="center"><img src="img-2.gif" width="140"></p> -->
+
+```
+⚙️ Onde eu passo o dia
+   Otimização de queries • índices e EXPLAIN • APIs REST
+   Docker • Linux • Git • Insomnia
+```
+
+<!-- IMAGEM 3 -->
+<!-- <p align="center"><img src="img-3.gif" width="140"></p> -->
 
 ```
  "Frase que te representa,
@@ -47,9 +57,6 @@
     com o autor embaixo."
 - Autor
 ```
-
-<!-- GIF 3 -->
-<!-- <p align="center"><img src="gif-3.gif" width="150"></p> -->
 
 <br clear="right">
 
