@@ -1,10 +1,10 @@
 <div align="center">
 
+<img src="banner.svg" width="100%" alt="Raul Guilherme" />
+
+<br><br>
+
 <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Development+Student;Backend+%7C+SQL+%7C+APIs;Technical+Support+Analyst;loading..." alt="typing" />
-
-<h1>Raul Guilherme</h1>
-
-<p>Canoas, Rio Grande do Sul, Brazil</p>
 
 <a href="https://www.linkedin.com/in/raul-guilherme-rodrigues-da-silva-555aa02b4"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:contato.raulguilherme@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -50,9 +50,6 @@ I value organization, maintainability, continuous improvement, and solving real-
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guitts8&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" />
 
-<br><br>
-
-<img src="https://raw.githubusercontent.com/Guitts8/Guitts8/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
 </div>
 
