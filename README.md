@@ -6,7 +6,7 @@
     <img src="banner.gif" alt="Banner" width="800">
   </p>
 <a href="https://www.linkedin.com/in/raul-guilherme-rodrigues-da-silva-555aa02b4"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://instagram.com/Guitts_"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://instagram.com/Guitts__"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:contato.raulguilherme@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <div align="left"></div>
  <h1>Raul</h1>
