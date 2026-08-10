@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="banner.svg" width="100%" alt="Banner">
+  <img src="banner.gif" width="100%" alt="Banner">
 </p>
 
 <p align="center">
@@ -18,9 +18,7 @@
 
 ## *"O ferro afia o ferro"*
 
-<!-- TIRA VERTICAL DE IMAGENS (lado direito) -->
-<!-- Monte UMA imagem só, vertical, com 3 ou 4 fotos empilhadas. Sugestão: 460x1100px -->
-<!-- <img align="right" width="240" src="strip.png"> -->
+<img align="right" width="240" src="image1.jpg">
 
 ```
 💼 Desenvolvedor back-end e analista de suporte
@@ -29,8 +27,7 @@
 🎓 ADS no IFRS — Canoas, RS
 ```
 
-<!-- IMAGEM 1 — suba no repositório e descomente -->
-<!-- <p align="center"><img src="img-1.gif" width="140"></p> -->
+<p align="center"><img src="image2.jpg" width="200"></p>
 
 ```
 🏗️ Real Estate CRM — gestão de imóveis e corretores
@@ -39,8 +36,7 @@
    Next.js • Tailwind • APIs REST • PostgreSQL
 ```
 
-<!-- IMAGEM 2 -->
-<!-- <p align="center"><img src="img-2.gif" width="140"></p> -->
+<p align="center"><img src="image3.jpg" width="200"></p>
 
 ```
 ⚙️ Onde eu passo o dia
@@ -48,8 +44,7 @@
    Docker • Linux • Git • Insomnia
 ```
 
-<!-- IMAGEM 3 -->
-<!-- <p align="center"><img src="img-3.gif" width="140"></p> -->
+<p align="center"><img src="image4.jpg" width="200"></p>
 
 ```
  "Frase que te representa,
