@@ -27,7 +27,7 @@
 🎓 ADS no IFRS — Canoas, RS
 ```
 
-<p align="center"><img src="image2.jpg" width="200"></p>
+<img align="right" width="240" src="image2.jpg">
 
 ```
 🏗️ Real Estate CRM — gestão de imóveis e corretores
@@ -36,7 +36,7 @@
    Next.js • Tailwind • APIs REST • PostgreSQL
 ```
 
-<p align="center"><img src="image3.jpg" width="200"></p>
+<img align="right" width="240" src="image3.jpg">
 
 ```
 ⚙️ Onde eu passo o dia
@@ -44,7 +44,7 @@
    Docker • Linux • Git • Insomnia
 ```
 
-<p align="center"><img src="image4.jpg" width="200"></p>
+<img align="right" width="240" src="image4.jpg">
 
 ```
  "Frase que te representa,
