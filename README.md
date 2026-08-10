@@ -62,8 +62,8 @@
 <br><br>
 
 <pre> "Convenci-me de que, se a cada parte pudessem ser concedidas
-          identidades diferentes, a vida seria liberta de
-                tudo que a fazia insuportável"
+   identidades diferentes, a vida seria liberta de
+      tudo que a fazia insuportável"
 - <b>Robert Louis Stevenson</b>
 </pre>
 
