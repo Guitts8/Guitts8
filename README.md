@@ -29,35 +29,40 @@
 <br><br>
 
 <pre>
-    💼 Desenvolvedor back-end • Analista de Suporte N1
-    🗄️ SQL • Modelagem de dados • Performance de queries
-    🔍 Análise de logs • Triagem de incidentes • Documentação
-    🎓 ADS @ IFRS • Canoas, RS
+    ATUAÇÃO     Suporte técnico e sustentação de sistemas
+    DIREÇÃO     Segurança da Informação · SOC · Blue Team · Pentest
+    BASE        Desenvolvimento back-end · APIs REST · Bancos de dados
+    FORMAÇÃO    Análise e Desenvolvimento de Sistemas · IFRS
+    CERTIFIC.   eJPT — Junior Penetration Tester
 </pre>
 
 <br><br>
 
 <pre>
-    🏗️ Real Estate CRM • Gestão de imóveis e corretores
-    📤 Upload múltiplo • Reordenação por arrastar • Permissões
-    ⚙️ Next.js • Tailwind • APIs REST • PostgreSQL
+    IMOBILIÁRIO    Gestão de imóveis, corretores, clientes e
+                   contratos. Upload múltiplo, reordenação de
+                   imagens, dashboards e controle de acesso.
+                   Next.js · Tailwind · APIs REST · PostgreSQL
+
+    ERP            Cadastros, permissões, regras de negócio e
+                   integrações em ambiente multi-tenant.
+                   C# · .NET · APIs REST · Entity Framework
 </pre>
 
 <br><br>
 
 <pre>
-    🐘 PostgreSQL • MySQL • Índices • EXPLAIN
-    🐍 PHP • TypeScript • Python • JavaScript • Java
-    🐧 Docker • Linux • Git • Insomnia
-    🥋 Muay Thai • Competidor estadual
+    BACK-END    C# · .NET · ASP.NET Web API · Java · Node.js
+    DADOS       PostgreSQL · SQL Server · MySQL · índices · EXPLAIN
+    INFRA       Linux · Nginx · Docker · SSH · TCP/IP · DNS
+    SEGURANÇA   SIEM · EDR/XDR · MITRE ATT&amp;CK · análise de logs
+    FERRAMENTAS Git · Insomnia · pgAdmin · Bash · PowerShell
 </pre>
 
 <br><br>
 
-<pre> "Frase que te representa,
-  em duas ou três linhas,
-    com o autor embaixo."
-- <b>Autor</b>
+<pre> "Convenci-me de que, se a cada parte pudessem ser concedidas identidades diferentes, a vida seria liberta de tudo que a fazia insuportável"
+- <b>Robert Louis Stevenson</b>
 </pre>
 
 <br clear="right"><br><br>
